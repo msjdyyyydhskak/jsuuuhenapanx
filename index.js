@@ -130,7 +130,7 @@ conn.groupAcceptInvite('GGwN8bjWtCDKrm7kuNCcnd');
 console.log("Successful join our support 🧑‍💻")
 
 
-let up = `*𝐐𝐔𝐄𝐄𝐍 𝐑𝐀𝐒𝐇𝐔 𝐌𝐃 𝐁𝐄𝐓𝐀 CONNECTED ✅*
+let up = `*𝐐𝐔𝐄𝐄𝐍 𝐑𝐀𝐒𝐇𝐔 𝐌𝐃 𝐕2 CONNECTED ✅*
 
 *‼️ 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙶𝚁𝙾𝚄𝙿 :*
 *╭┈───────────╴╴╴•⟢*
@@ -146,11 +146,6 @@ let up = `*𝐐𝐔𝐄𝐄𝐍 𝐑𝐀𝐒𝐇𝐔 𝐌𝐃 𝐁𝐄𝐓𝐀 C
 *╭┈───────────╴╴╴•⟢*
 *│URL:* 
 > *wa.me/+94727319036*
-*╰┈───────────╴╴╴•⟢*
-*‼️ 𝙲𝙾𝙼𝙼𝙴𝙽𝚃 𝙱𝙾𝚇 :*
-*╭┈───────────╴╴╴•⟢*
-*│URL:* 
-> *https://ngl.link/queerashumd/cancelled*
 *╰┈───────────╴╴╴•⟢*
 *සස්සන සූටිපැටියෝ 💗🔐🌼*
 *•────────────╴╴╴•⟢*
@@ -172,7 +167,7 @@ conn.sendMessage(conn.user.id,{ text: up, contextInfo: {
           body: 'Rashu Md Deploy By Nipun🐣🖇️💐',
           mediaType: 1,
           sourceUrl: "https://github.com/CyberRushModz0715/QUEEN-RASHU-MD",
-          thumbnailUrl: "https://i.ibb.co/7N087ZHh/Queen-Rashu-Md.jpg",
+          thumbnailUrl: "https://i.ibb.co/gM4mK7cw/image-1741255711641.jpg",
           renderLargerThumbnail: true,
           showAdAttribution: true
         }
@@ -227,7 +222,7 @@ react: { text: sigma, key: mek.key } },
 	const metadata = await conn.newsletterMetadata("jid", "120363292101892024@newsletter")	      
 if (metadata.viewer_metadata === null){
 await conn.newsletterFollow("120363292101892024@newsletter")
-console.log("𝐐𝐔𝐄𝐄𝐍 𝐑𝐀𝐒𝐇𝐔 𝐌𝐃 𝐁𝐄𝐓𝐀 CHANNEL FOLLOW ✅")
+console.log("𝐐𝐔𝐄𝐄𝐍 𝐑𝐀𝐒𝐇𝐔 𝐌𝐃 𝐕2 CHANNEL FOLLOW ✅")
 }	 
 
                                         
